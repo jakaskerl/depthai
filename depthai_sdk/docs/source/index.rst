@@ -72,3 +72,12 @@ Installation
    :caption: Features
 
    features/*
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Code samples
+
+   tutorials/code_samples.rst
+   
